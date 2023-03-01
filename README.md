@@ -7,6 +7,6 @@
     java
     public class(){
         public static void main(String args[]){
-            
+            "Hello Java"
         }
     }
